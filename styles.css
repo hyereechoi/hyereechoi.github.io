@@ -1,4 +1,49 @@
 body {
     background-color: blue;
     color: red;
+    font-size: 30px;
+    font-family: Helvetica, arial, sans-serif;
+    text-align: center;
+    
+    font-family: georgia,"times new roman",times,serif;
+color: #999;
+    
+}
+
+p {
+    margin: 100px;
+}
+
+.paragraph2 {
+    color: #faac32;
+}
+
+.one {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    position: absolute;
+    bottom: 20px;
+    right: 100px;
+    border-radius: 100%;
+    border: solid red 10px;
+    
+}
+
+.one:hover {
+    background-color: lime;
+}
+
+
+a:link {
+    color: white;
+
+}
+
+a:visited {
+    color: red;
+}
+
+a:link :hover {
+    color: yello;
 }
