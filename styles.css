@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: pink;
     color: red;
     font-size: 30px;
     font-family: Helvetica, arial, sans-serif;
@@ -21,12 +21,12 @@ p {
 .one {
     width: 200px;
     height: 200px;
-    background-color: yellow;
+    background-color: blue;
     position: absolute;
     bottom: 20px;
     right: 100px;
     border-radius: 100%;
-    border: solid red 10px;
+    border: solid red 5px;
     
 }
 
