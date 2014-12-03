@@ -1,11 +1,11 @@
 body {
     background-image: url("ima.jpg");
-    color: red;
+    color: black;
     font-size: 30px;
     font-family: Helvetica, arial, sans-serif;
     text-align: center;
     
-    font-family: georgia,"times new roman",times,serif;
+    font-family: arial;
     color: #999;
     
 }
