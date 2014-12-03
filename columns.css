@@ -2,3 +2,29 @@ body {
     background-color: yellow;
 }
 
+.canvas {
+    width: 300PX;
+    height: 600px;
+    background-color: black;
+    position: relative;
+}
+
+.box {
+    width: 20px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 40px;
+    right: 20px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: red;
+    position: absolute;
+    bottom: 40px;
+    left: 30px;
+}
+
